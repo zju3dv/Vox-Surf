@@ -1,0 +1,12 @@
+data
+.vscode
+*.vox
+exp
+preprocess_custom_data
+dist
+*.ply
+build
+*.so
+*.pyc
+*.egg-info
+*.obj
